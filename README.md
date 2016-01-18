@@ -9,7 +9,7 @@ You can simply convert a CSV File to a XML File. (with DocBuilder)
 
 [Wikipedia](https://en.wikipedia.org/wiki/XML)
 
-#### Examaple:
+#### Example:
 
 ```
 //CSV File: Johannes, Christler; Benjamin, Hackstock;
